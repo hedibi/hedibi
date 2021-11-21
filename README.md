@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hedibi
 - 👀 I’m interested in Ai dev,computer science,game develepment 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,html,css,js,c++
 - 💞️ I’m looking to collaborate on nothing lol
 - 📫 How to reach me:i don't wana show it for a spesific reasne
 
